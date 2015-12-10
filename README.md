@@ -1,3 +1,3 @@
 # ROTA_VBA
-TEST
-ff 
+
+This is text vba code from Uf023630.
