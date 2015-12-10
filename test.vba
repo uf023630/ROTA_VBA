@@ -38,8 +38,6 @@ rst1.Open sql1, cnn, adOpenKeyset, adLockOptimistic
                     rst2.Fields("ITNO") = rst1.Fields(0)
                     rst2.Fields("CFile") = True
                     rst2.Update
-   
-        
         
                 rst2.Close
                 Set rst2 = Nothing
